@@ -1,0 +1,24 @@
+body{
+    background-color: darkolivegreen;
+}
+button.download {
+background-color: red;
+position: static;
+color: black;
+}
+
+a.Backbtn {
+    text-decoration: none;
+    color: black;
+}
+a.Workbook{
+    color: yellow;
+}
+img {
+     max-width: 400px;
+    margin:auto;
+    display: block;
+    height: 500px;
+    border: 2.5px solid;
+}
+
